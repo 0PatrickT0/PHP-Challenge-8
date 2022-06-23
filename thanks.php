@@ -21,7 +21,6 @@
         echo "<br>";
         echo "<br>";
         echo "$user_message";
-        exit;
     }
     ?>
 </body>
